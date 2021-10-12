@@ -35,6 +35,7 @@ public class JBMainPageTest extends TestBase {
                 )
         );
     }
+// круто используешь MethodSource
 
     @MethodSource("MethodSource")
     @ParameterizedTest()
