@@ -1,5 +1,5 @@
 ### QA Guru / HW №8
-#### JUnit 5 with CsvSource, EnumSource, MethodSource examples
+#### JUnit5 with CsvSource, EnumSource, MethodSource examples
 ___
 
 
